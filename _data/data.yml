@@ -44,59 +44,40 @@ sidebar:
 career-profile:
     title: Postdoctoral Research Associate
     summary: |
-     I am currently working on developing an algorithm to model toxicophores in drug discovery data using deep neural networks. 
-     Given chemicals with toxicity annotations, 
-     I am particularly focused on identifying a hotspot (convolutionally-enriched region) contributing to toxicity of chemicals more than other regions by convolutional networks.
+     I am currently a postdoctoral Research Associate affiliated with Bio & Health Informatics Lab and Bioinformatics Institute at Seoul National University. 
+     I received a Ph.D. degree in Bioinformatics at Seoul National University in 2019. 
+     My research currently focuses on developing machine learning algorithms to model toxicity of chemicals in large-scale drug discovery data using deep neural networks, identifying toxicophores (hotspots) contributing to the toxicity of chemicals.
    
 education:
-    - degree: PhD in Bioinformatics
+    - degree: Ph.D. in Bioinformatics
       university: Seoul National University
       time: 2014 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: MSc in Chemistry
+          - Research areas: transcriptome data analysis, data mining, computational modeling of biological data
+          - Advisor: Sun Kim
+          - Thesis title: Quantification of pathway activity using RNA-seq data
+    - degree: M.S. in Chemistry
       university: Yonsei University
       time: 2011 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Research areas: Lipidomics, Proteomics, HPLC-MS, Asymmetrical Flow Field-Flow Fractionation
+          - Advisor: Myeong Hee Moon
+          - Thesis title: Development of computational algorithm for structural identification of phospholipids and profiling of phospholipid biomarkers for prostate cancer from human urine
     - degree: BSc in Chemistry, Applied Mathematics
       university: Yonsei University
       time: 2006 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
+
 experiences:
     - role: Postdoctoral Research Associate
       time: 2019 - Present
       company: Bioinformatics Institute, Seoul National University
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
           - Bullet point
 projects:
     title: Projects
@@ -128,9 +109,27 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications in Seoul National University (2014 ~ present)
+    papers:
+      - title: PathwayCloud: a cloud-based system for calculating individualized pathway activity values
+        link: In preparation
+        authors: Sangsoo Lim, Heonyi Lee, Joungmin Choi and Heejoon Chae
+        journal: In preparation
+        volumne:
+        year: 2020
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        journal: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+        
+    intro: |
+      Publications in Yonsei University (2011 ~ 2014)
     papers:
       - title: The Art of Computer Programming
         link: "#"
