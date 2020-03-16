@@ -110,7 +110,7 @@ publications:
     title: Publications
     intro: |
       Publications in Seoul National University (2014 ~ present)
-    papers:
+    papers:|
       - title: PathwayCloud: a cloud-based system for calculating individualized pathway activity values
         link: In preparation
         authors: Sangsoo Lim, Heonyi Lee, Joungmin Choi and Heejoon Chae
