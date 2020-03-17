@@ -100,12 +100,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      Publications in Seoul National University (2014 ~ present)
+      Publications in Seoul National University (2014 ~ Present)
     papers:
-      - title: "PathwayCloud: a cloud-based system for calculating individualized pathway activity values"
-        link: "In preparation"
-        authors: Sangsoo Lim, Heonyi Lee, Joungmin Choi and Heejoon Chae
-        journal: "In preparation"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
