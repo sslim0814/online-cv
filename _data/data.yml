@@ -189,15 +189,44 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0021967312017128"
         authors: Seul Kee Byeon, Ju Yong Lee, Sangsoo Lim, Donghoon Choi and Myeong Hee Moon
         conference: "Journal of Chromatography A 1270, 2012"
+        
+      - title: "Computational approach to structural identification of phospholipids using raw mass spectra from nanoflow liquid chromatography–electrospray ionization–tandem mass spectrometry"
+        link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jms.3033"
+        authors: Sangsoo Lim, Seul Kee Byeon, Ju Yong Lee and Myeong Hee Moon
+        conference: "Journal of mass spectrometry 47(8), 2012"
+        
+      - title: "Effect of ionization modifiers on the simultaneous analysis of all classes of phospholipids by nanoflow liquid chromatography/tandem mass spectrometry in negative ion mode"
+        link: "https://www.sciencedirect.com/science/article/pii/S002196731200502X"
+        authors: Dae Young Bang, Sangsoo Lim and Myeong Hee Moon
+        conference: "Journal of Chromatography A 1240, 2012"
+        
+      - title: "Effect of D-allose on prostate cancer cell lines: phospholipid profiling by nanoflow liquid chromatography–tandem mass spectrometry"
+        link: "https://link.springer.com/article/10.1007/s00216-011-5113-1"
+        authors: Rae Ung Jeong, Sangsoo Lim, Myoung Ok Kim and Myeong Hee Moon
+        conference: "Analytical and bioanalytical chemistry 401(2), 2011"
+        
+      - title: "Effects of column length and particle diameter on phospholipid analysis by nanoflow liquid chromatography-electrospray ionization-mass spectrometry"
+        link: "http://www.koreascience.or.kr/article/JAKO201105462035203.page"
+        authors: Ju Yong Lee, Sangsoo Lim, Myeong-Hee Moon
+        conference: "Mass Spectrometry Letters 2(3), 2011"
+        
+      - title: "Shotgun lipidomics for candidate biomarkers of urinary phospholipids in prostate cancer"
+        link: "https://link.springer.com/article/10.1007/s00216-010-4290-7"
+        authors: Hye Kyeong Min, Sangsoo Lim, Bong Chul Chung, Myeong Hee Moon
+        conference: "Analytical and bioanalytical chemistry 399(2), 2011"
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & R
-        level: 90%
+      - name: Python
+        level: 100%
+        
+      - name: R
+        level: 100%
 
       - name: Illustrator & Photoshop
-        level: 50%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
