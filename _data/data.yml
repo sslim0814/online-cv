@@ -53,9 +53,13 @@ education:
       university: Seoul National University
       time: 2014 - 2019
       details: |
-        Research areas: transcriptome data analysis, data mining, computational modeling of biological data
+        Thesis title: "Quantification of pathway activity using RNA-seq data"
         Advisor: Sun Kim
-        Thesis title: Quantification of pathway activity using RNA-seq data
+        Research areas: 
+         - transcriptome data analysis
+         - data mining
+         - computational modeling of biological data
+        
     - degree: M.S. in Chemistry
       university: Yonsei University
       time: 2011 - 2013
