@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sslim@snu.ac.kr
-    phone: +82 2 880 2860
+    #phone: +82 2 880 2860
     website: scholar.google.com/citations?user=d19A738AAAAJ&hl=en
     linkedin: sslimbioinfo
     github: sslim0814
@@ -53,10 +53,9 @@ education:
       university: Seoul National University
       time: 2014 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-          - Research areas: transcriptome data analysis, data mining, computational modeling of biological data
-          - Advisor: Sun Kim
-          - Thesis title: Quantification of pathway activity using RNA-seq data
+        Research areas: transcriptome data analysis, data mining, computational modeling of biological data
+        Advisor: Sun Kim
+        Thesis title: Quantification of pathway activity using RNA-seq data
     - degree: M.S. in Chemistry
       university: Yonsei University
       time: 2011 - 2013
