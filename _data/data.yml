@@ -107,16 +107,15 @@ publications:
         authors: Sangsoo Lim, Sangseon Lee, Inuk Jung, Sungmin Rhee and Sun Kim
         journal: "Briefings in Bioinformatics 20(1), 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        journal: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        journal: "Comm. ACM 4 (1961), 51–55"
-
+      - title: "Enhancer prediction with histone modification marks using a hybrid neural network model"
+        link: "https://www.sciencedirect.com/science/article/pii/S1046202318303335"
+        authors: Aeran Lim*, Sangsoo Lim*, Sun Kim (*equal contribution)
+        journal: "Methods 166, 2019"
+        
+      - title: "SpliceHetero: An information theoretic approach for measuring spliceomic intratumor heterogeneity from bulk tumor RNA-seq"
+        link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223520"
+        authors: Minsu Kim, Sangseon Lee, Sangsoo Lim, Sun Kim
+        journal: "PloS one 14(10), 2019"
 
 skills:
     title: Skills &amp; Proficiency
