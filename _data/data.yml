@@ -102,6 +102,21 @@ publications:
     intro: |
       Publications in chronological order
     papers:
+      - title: "PathwayCloud: a cloud-based system for calculating individualized pathway activity values"
+        link: ""
+        authors: Sangsoo Lim*, Heonyi Lee*, Joungmin Choi and Heejoon Chae (*equal contribution)
+        journal: "In preparation"
+
+      - title: AttentiveCancer: an attention framework using subnetwork level representation of transcriptome for predicting lymph node metastasis in early oral cancer"
+        link: ""
+        authors: Minsu Kim, Sangseon Lee, Sangsoo Lim, Doh Young Lee and Sun Kim
+        journal: "In preparation"
+        
+      - title: "Cancer subtype classification and modeling by pathway attention and propagation"
+        link: ""
+        authors: Sangseon Lee, Sangsoo Lim, Taeheon Lee, Inyoung Sung and Sun Kim
+        journal: "Accepted"
+    
       - title: "Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data"
         link: "https://academic.oup.com/bib/article/21/1/36/5181542"
         authors: Sangsoo Lim, Sangseon Lee, Inuk Jung, Sungmin Rhee and Sun Kim
@@ -114,8 +129,23 @@ publications:
         
       - title: "SpliceHetero: An information theoretic approach for measuring spliceomic intratumor heterogeneity from bulk tumor RNA-seq"
         link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223520"
-        authors: Minsu Kim, Sangseon Lee, Sangsoo Lim, Sun Kim
+        authors: Minsu Kim, Sangseon Lee, Sangsoo Lim and Sun Kim
         journal: "PloS one 14(10), 2019"
+        
+      - title: "PINTnet: construction of condition-specific pathway interaction network by computing shortest paths on weighted PPI"
+        link: "https://link.springer.com/article/10.1186/s12918-017-0387-3"
+        authors: Ji Hwan Moon, Sangsoo Lim, Kyuri Jo, Sangseon Lee, Seokjun Seo and Sun Kim
+        journal: "BMC systems biology 11(2), 2017"
+        
+      - title: "Iterative segmented least square method for functional microRNA-mRNA module discovery in breast cancer"
+        link: "https://ieeexplore.ieee.org/abstract/document/7822618"
+        authors: Sungmin Rhee, Sangsoo Lim and Sun Kim
+        journal: "2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2016"
+        
+      - title: "CLIP-GENE: a web service of the condition specific context-laid integrative analysis for gene prioritization in mouse TF knockout experiments"
+        link: "https://link.springer.com/article/10.1186/s13062-016-0158-x"
+        authors: Benjamin Hur, Sangsoo Lim, Heejoon Chae, Seokjun Seo, Sunwon Lee, Jaewoo Kang and Sun Kim
+        journal: "Biology direct 11(1), 2016"
 
 skills:
     title: Skills &amp; Proficiency
