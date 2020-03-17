@@ -54,7 +54,9 @@ education:
       time: 2014 - 2019
       details: |
         Thesis title: "Quantification of pathway activity using RNA-seq data"
+        
         Advisor: Sun Kim
+        
         Research areas: 
          - transcriptome data analysis
          - data mining
@@ -65,7 +67,9 @@ education:
       time: 2011 - 2013
       details: |
         Thesis title: "Development of computational algorithm for structural identification of phospholipids and profiling of phospholipid biomarkers for prostate cancer from human urine"
+        
         Advisor: Myeong Hee Moon
+        
         Research areas: Lipidomics, Proteomics, HPLC-MS, Asymmetrical Flow Field-Flow Fractionation
 
     - degree: BSc in Chemistry, Applied Mathematics
