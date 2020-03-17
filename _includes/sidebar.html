@@ -17,17 +17,32 @@
 
   </div><!--//profile-container-->
 
-  {% include contact.html %}
+  <hr>
+  <div class="contact-container container-block">
+    <ul class="list-unstyled contact-list">
+ 
+   <!--    <h5><li class="projects"><i class="fas fa-angle-right"></i>
+        <a href="projects_main.html">Projects</a>
+      </li></h5> -->
+      <h5>
+        <li class="profile"><i class="fas fa-angle-right"></i>
+        <a href="index.html">Profile</a>
+        </li>
+      </h5>
 
-  {% if sidebar.education %}
-    {% include education.html %}
-  {% endif %}
+      <h5>
+        <li class="book-patents"><i class="fas fa-angle-right"></i>
+        <a href="publications_main.html">Books & Patents</a>
+        </li>
+      </h5>
 
-  {% include language.html %}
-  {% include interests.html %}
+      <h5>
+        <li class="cv"><i class="fas fa-angle-right"></i>
+        <a href="assets/data/sslim_cv.pdf" target="_blank">CV (pdf)</a>
+        </li>
+      </h5>
 
-  {% if sidebar.about %}
-    {% include about.html %}
-  {% endif %}
+    </ul>
+  </div>
 
 </div><!--//sidebar-wrapper-->
