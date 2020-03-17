@@ -97,6 +97,19 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 
+awards:
+    - title: Excellent Teaching Assistant
+      organization: Department of Chemistry, College of Science, Yonsei University
+      time: 2012
+      details: |
+        Performance in HPLC experiments
+    - title: Excellent Teaching Assistant
+      organization: Department of Chemistry, College of Science, Yonsei University
+      time: 2011
+      details: |
+        Performance in GC experiments
+
+
 publications:
     title: Publications
     intro: |
