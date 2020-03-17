@@ -18,16 +18,21 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% else %}
-      <li>{{ publication.title }}</li>
-    {% endif %}
+    <div class="publication-title"><i class="fas fa-bookmark"></i> {{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-journal">{{ publication.journal }}</div>
+
+    {% if publication.link %}
+      {% if publication.website %}
+        <div class="publication-conference">{{ publication.conference }}<a href="{{ publication.link}}" style="color:blue" target="_blank"> [link]</a><a href="{{ publication.website}}" style="color:red" target="_blank"> [website]</a></div>
+      {% else %}
+        <div class="publication-conference">{{ publication.conference }}<a href="{{ publication.link}}" style="color:blue" target="_blank"> [link]</a></div>
+      {% endif %}
+    {% else %}
+    <div class="publication-conference">{{ publication.conference }}</div>
+    {% endif %}
+ 
   </div><!--//item-->
   {% endfor %}
 
-  
 </section><!--//section-->
 {% endif %}
