@@ -99,14 +99,13 @@ projects:
 
 publications:
     title: Publications
-    
     intro: |
-      Publications in Seoul National University (2014 ~ Present)
+      Publications in chronological order
     papers:
-      - title: "The Art of Computer Programming"
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data"
+        link: "https://academic.oup.com/bib/article/21/1/36/5181542"
+        authors: Sangsoo Lim, Sangseon Lee, Inuk Jung, Sungmin Rhee and Sun Kim
+        conference: "Briefings in Bioinformatics 20(1), 2020"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
