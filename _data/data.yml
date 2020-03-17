@@ -155,10 +155,20 @@ publications:
         authors: Sungmin Rhee, Sangsoo Lim and Sun Kim
         journal: "2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2016"
         
-      - title: "CLIP-GENE: a web service of the condition specific context-laid integrative analysis for gene prioritization in mouse TF knockout experiments"
+      - title: "Measuring intratumor heterogeneity by network entropy using RNA-seq data"
+        link: "https://www.nature.com/articles/srep37767"
+        authors: Youngjune Park, Sangsoo Lim, Jin-Wu Nam and Sun Kim
+        journal: "Scientific reports 6, 2016"
+        
+      - title: "Protein interaction network (pin)-based breast cancer subsystem identification and activation measurement for prognostic modeling"
         link: "https://link.springer.com/article/10.1186/s13062-016-0158-x"
-        authors: Benjamin Hur, Sangsoo Lim, Heejoon Chae, Seokjun Seo, Sunwon Lee, Jaewoo Kang and Sun Kim
-        journal: "Biology direct 11(1), 2016"
+        authors: Sangsoo Lim, Youngjune Park, Benjamin Hur, Minsu Kim, Wonshik Han and Sun Kim
+        journal: "Methods 110, 2016"
+        
+      - title: "Information theoretic sub-network mining characterizes breast cancer subtypes in terms of cancer core mechanisms"
+        link: "https://www.worldscientific.com/doi/abs/10.1142/S0219720016440029"
+        authors: Jinwoo Park, Benjamin Hur, Sungmin Rhee, Sangsoo Lim, Min-Su Kim, Kwangsoo Kim, Wonshik Han and Sun Kim
+        journal: "Journal of bioinformatics and computational biology 14(5), 2016"
 
 skills:
     title: Skills &amp; Proficiency
