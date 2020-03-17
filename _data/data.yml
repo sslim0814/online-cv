@@ -169,7 +169,26 @@ publications:
         link: "https://www.worldscientific.com/doi/abs/10.1142/S0219720016440029"
         authors: Jinwoo Park, Benjamin Hur, Sungmin Rhee, Sangsoo Lim, Min-Su Kim, Kwangsoo Kim, Wonshik Han and Sun Kim
         conference: "Journal of bioinformatics and computational biology 14(5), 2016"
-
+        
+      - title: "Rapid screening of phospholipid biomarker candidates from prostate cancer urine samples by multiple reaction monitoring of UPLC-ESI-MS/MS and statistical approaches"
+        link: "http://www.koreascience.or.kr/article/JAKO201412837596052.page"
+        authors: Sangsoo Lim, Dae Young Bang, Koon Ho Rha and Myeong Hee Moon
+        conference: "Bulletin of the Korean Chemical Society 35(4), 2014"
+        
+      - title: "Characterization of oxidized phospholipids in oxidatively modified low density lipoproteins by nanoflow liquid chromatography–tandem mass spectrometry"
+        link: "https://www.sciencedirect.com/science/article/pii/S0021967313004044"
+        authors: Ju Yong Lee, Sangsoo Lim, Sungha Park and Myeong Hee Moon
+        conference: "Journal of Chromatography A 1288, 2013"
+        
+      - title: "Top–down lipidomic analysis of human lipoproteins by chip-type asymmetrical flow field-flow fractionation–electrospray ionization-tandem mass spectrometry"
+        link: "https://www.sciencedirect.com/science/article/pii/S0021967313000964"
+        authors: Ki Hun Kim, Ju Yong Lee, Sangsoo Lim and Myeong Hee Moon
+        conference: "Journal of Chromatography A 1280, 2013"
+        
+      - title: "Discovery of candidate phospholipid biomarkers in human lipoproteins with coronary artery disease by flow field-flow fractionation and nanoflow liquid chromatography–tandem mass spectrometry"
+        link: "https://www.sciencedirect.com/science/article/pii/S0021967312017128"
+        authors: Seul Kee Byeon, Ju Yong Lee, Sangsoo Lim, Donghoon Choi and Myeong Hee Moon
+        conference: "Journal of Chromatography A 1270, 2012"
 skills:
     title: Skills &amp; Proficiency
 
