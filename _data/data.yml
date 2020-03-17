@@ -215,6 +215,18 @@ publications:
         authors: Hye Kyeong Min, Sangsoo Lim, Bong Chul Chung, Myeong Hee Moon
         conference: "Analytical and bioanalytical chemistry 399(2), 2011"
         
+patents:
+    title: Patents
+    intro: |
+      Patents listed in chronological order
+    patents:
+      - title: "LIPID ANALYSIS SYSTEM AND METHOD FOR ANALYSING THE LIPID"
+        authors: "Myeong Hee Moon and Sangsoo Lim"
+        location: "Korea registered"
+        number: 10-2015-0015756
+        time: 2015
+        link: "http://www.rndip.or.kr/U_Service.do?method=viewMain&applno=1015026940000"
+        
 skills:
     title: Skills &amp; Proficiency
 
