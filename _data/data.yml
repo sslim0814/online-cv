@@ -105,17 +105,17 @@ publications:
       - title: "Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data"
         link: "https://academic.oup.com/bib/article/21/1/36/5181542"
         authors: Sangsoo Lim, Sangseon Lee, Inuk Jung, Sungmin Rhee and Sun Kim
-        conference: "Briefings in Bioinformatics 20(1), 2020"
+        journal: "Briefings in Bioinformatics 20(1), 2020"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        journal: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        journal: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
