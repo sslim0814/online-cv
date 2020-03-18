@@ -12,6 +12,8 @@ sidebar:
     avatar: sslim_profile_resized.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    affiliation_1: "Bioinformatics Institute, Seoul National University"
+    address: "Seoul National University, 220-653"
     email: sslim@snu.ac.kr
     #phone: +82 2 880 2860
     website: scholar.google.com/citations?user=d19A738AAAAJ&hl=en
