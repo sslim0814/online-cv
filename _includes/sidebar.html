@@ -1,14 +1,15 @@
+
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
 
     {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <a href="https://sslim0814.github.io/online-cv/"><img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" /></a>
     {% endif %}
 
     {% if sidebar.name %}
-    <h1 class="name">{{ sidebar.name }}</h1>
+    <a href="https://sslim0814.github.io/online-cv/"><h1 class="name">{{ sidebar.name }}</h1></a>
     {% endif %}
 
     {% if sidebar.tagline %}
