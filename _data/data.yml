@@ -117,6 +117,11 @@ publications:
     intro: |
       Publications in chronological order
     papers:
+      - title: "Identification of active pharmacophores usnig variable-length convolutional neural networks"
+        link: ""
+        authors: Sangsoo Lim, Sangseon Lee, Dohoon Lee, Minsik Oh and Sun Kim
+        conference: "In preparation"
+        
       - title: "PathwayCloud: a cloud-based system for calculating individualized pathway activity values"
         link: ""
         authors: Sangsoo Lim*, Heonyi Lee*, Joungmin Choi and Heejoon Chae (*equal contribution)
