@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Postdoctoral Research Associate
     summary: |
-     I am currently a postdoctoral Research Associate affiliated with Bio & Health Informatics Lab and Bioinformatics Institute at Seoul National University. 
+     I am currently a postdoctoral Research Associate affiliated with <a href="https://bhi-kimlab.github.io/" style="color:blue" target="_blank">Bio & Health Informatics Lab</a> and <a href="http://nbiosnu.org/" style="color:blue" target="_blank">Bioinformatics Institute</a> at Seoul National University. 
      I received a Ph.D. degree in Bioinformatics at Seoul National University in 2019. 
      My research currently focuses on developing machine learning algorithms to model toxicity of chemicals in large-scale drug discovery data using deep neural networks, identifying toxicophores (hotspots) contributing to the toxicity of chemicals.
    
