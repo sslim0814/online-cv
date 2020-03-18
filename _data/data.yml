@@ -86,13 +86,13 @@ experiences:
       company: Bioinformatics Institute, Seoul National University
       details: |
 
-projects:
-    title: Discovery of pharmacophores using an aggregated variable-length convolutional neural networks
-    intro: >
-      In drug design, developing a lead compound requires actual binding motif as an essential building block while meeting supplementary biochemical requirements.
-      To understand where and how a binding motif (also called pharmacophore) can be active, various machine learning algorithms have been suggested including deep neural networks.
-      However, current prediction methods mainly focuses on improving the performance of a model without sufficient interpretation of how actual binding of chemicals induce desired biological activity.
-      Thus, this project is to develop a systematic method using variable-length convolutional neural networks to discover pharmacophores with scoring approahces.
+#projects:
+    #title: Discovery of pharmacophores using an aggregated variable-length convolutional neural networks
+    #intro: >
+      #In drug design, developing a lead compound requires actual binding motif as an essential building block while meeting supplementary biochemical requirements.
+      #To understand where and how a binding motif (also called pharmacophore) can be active, various machine learning algorithms have been suggested including deep neural networks.
+      #However, current prediction methods mainly focuses on improving the performance of a model without sufficient interpretation of how actual binding of chemicals induce desired biological activity.
+      #Thus, this project is to develop a systematic method using variable-length convolutional neural networks to discover pharmacophores with scoring approahces.
 
 awards:
     - title: Excellent Teaching Assistant
