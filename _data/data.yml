@@ -95,32 +95,32 @@ experiences:
       #Thus, this project is to develop a systematic method using variable-length convolutional neural networks to discover pharmacophores with scoring approahces.
 
     title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
-    authors: Sangsoo Lim and Sun Kim
+    #authors: Sangsoo Lim and Sun Kim
     Intro: >
      In preparation
 
     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
-    authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
+    #authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
     Intro: >
      In preparation
 
     title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
-    authors: Jungwoo Kim, Sangsoo Lim, Chang Yun Cho and Sun Kim
+    #authors: Jungwoo Kim, Sangsoo Lim, Chang Yun Cho and Sun Kim
     Intro: >
      In preparation
      
     title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm
-    authors: Youngkuk Kim, Sangsoo Lim and Sun Kim
+    #authors: Youngkuk Kim, Sangsoo Lim and Sun Kim
     Intro: >
      In preparation
      
     title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
-    authors: Yinhwa Park, Sangsoo Lim and Sun Kim
+    #authors: Yinhwa Park, Sangsoo Lim and Sun Kim
     Intro: >
      In preparation
      
     title: Classification of Kinase Inhibitor Subgroups
-    authors: Chang Yun Cho, Sangsoo Lim and Sun Kim
+    #authors: Chang Yun Cho, Sangsoo Lim and Sun Kim
     Intro: >
      In preparation
      
