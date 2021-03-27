@@ -94,6 +94,37 @@ experiences:
       #However, current prediction methods mainly focuses on improving the performance of a model without sufficient interpretation of how actual binding of chemicals induce desired biological activity.
       #Thus, this project is to develop a systematic method using variable-length convolutional neural networks to discover pharmacophores with scoring approahces.
 
+    title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
+    authors: Sangsoo Lim and Sun Kim
+    Intro: >
+     In preparation
+
+    title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
+    authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
+    Intro: >
+     In preparation
+
+    title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
+    authors: Jungwoo Kim, Sangsoo Lim, Chang Yun Cho and Sun Kim
+    Intro: >
+     In preparation
+     
+    title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm
+    authors: Youngkuk Kim, Sangsoo Lim and Sun Kim
+    Intro: >
+     In preparation
+     
+    title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
+    authors: Yinhwa Park, Sangsoo Lim and Sun Kim
+    Intro: >
+     In preparation
+     
+    title: Classification of Kinase Inhibitor Subgroups
+    authors: Chang Yun Cho, Sangsoo Lim and Sun Kim
+    Intro: >
+     In preparation
+     
+
 awards:
     - title: Excellent Teaching Assistant
       organization: Department of Chemistry, College of Science, Yonsei University
@@ -112,44 +143,11 @@ publications:
     intro: |
       Publications in chronological order
     papers:
-        
+
 #       - title: "PathwayCloud: a cloud-based system for calculating individualized pathway activity values"
 #         link: ""
 #         authors: Sangsoo Lim*, Heonyi Lee*, Joungmin Choi and Heejoon Chae (*equal contribution)
 #         conference: "In preparation"
-
-      - title: "Drug-Induced Liver Injury Classification using Supervised Random Walk with Graph Pruning"
-        #link: ""
-        authors: Sangsoo Lim and Sun Kim
-        conference: "In preparation"
-
-      - title: "An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors"
-        #link: ""
-        authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
-        conference: "In preparation"
-
-      - title: "Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs"
-        #link: ""
-        authors: Jungwoo Kim, Sangsoo Lim, Chang Yun Cho and Sun Kim
-        conference: "In preparation"
-        
-      - title: "Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm"
-        #link: ""
-        authors: Youngkuk Kim, Sangsoo Lim and Sun Kim
-        conference: "In preparation"
-
-      - title: "Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph"
-        #link: ""
-        authors: Yinhwa Park, Sangsoo Lim and Sun Kim
-        conference: "In preparation"
-
-      - title: "Classification of Kinase Inhibitor Subgroups"
-        #link: ""
-        authors: Chang Yun Cho, Sangsoo Lim and Sun Kim
-        conference: "In preparation"
-        
-        
-        
 
       - title: "BioVLAB-Cancer-Pharmacogenomics: Tumor Heterogeneity and Pharmacogenomics Analysis of Multi-omics Data from Tumor on the Cloud"
         #link: ""
