@@ -128,8 +128,28 @@ publications:
         authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
         conference: "In preparation"
 
+      - title: "Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs"
+        #link: ""
+        authors: Jungwoo Kim, Sangsoo Lim, Chang Yun Cho and Sun Kim
+        conference: "In preparation"
+        
+      - title: "Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm"
+        #link: ""
+        authors: Youngkuk Kim, Sangsoo Lim and Sun Kim
+        conference: "In preparation"
 
+      - title: "Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph"
+        #link: ""
+        authors: Yinhwa Park, Sangsoo Lim and Sun Kim
+        conference: "In preparation"
 
+      - title: "Classification of Kinase Inhibitor Subgroups"
+        #link: ""
+        authors: Chang Yun Cho, Sangsoo Lim and Sun Kim
+        conference: "In preparation"
+        
+        
+        
 
       - title: "BioVLAB-Cancer-Pharmacogenomics: Tumor Heterogeneity and Pharmacogenomics Analysis of Multi-omics Data from Tumor on the Cloud"
         #link: ""
