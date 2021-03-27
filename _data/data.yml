@@ -88,27 +88,27 @@ experiences:
 
 projects:
     title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
-    Intro: >
+    Intro: |
      In preparation
 
     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
-    Intro: >
+    Intro: |
      In preparation
 
     title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
-    Intro: >
+    Intro: |
      In preparation
      
     title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm for Toxicophore Discovery
-    Intro: >
+    Intro: |
      In preparation
      
     title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
-    Intro: >
+    Intro: |
      In preparation
      
     title: Classification of Kinase Inhibitor Subgroups
-    Intro: >
+    Intro: |
      In preparation
      
 
