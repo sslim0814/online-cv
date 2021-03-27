@@ -119,12 +119,12 @@ publications:
 #         conference: "In preparation"
 
       - title: "Drug-Induced Liver Injury Classification using Supervised Random Walk with Graph Pruning"
-        link: ""
+        #link: ""
         authors: Sangsoo Lim and Sun Kim
         conference: "In preparation"
 
       - title: "An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors"
-        link: ""
+        #link: ""
         authors: Yijingxu Lu, Sangsoo Lim and Sun Kim
         conference: "In preparation"
 
@@ -132,12 +132,12 @@ publications:
 
 
       - title: "BioVLAB-Cancer-Pharmacogenomics: Tumor Heterogeneity and Pharmacogenomics Analysis of Multi-omics Data from Tumor on the Cloud"
-        link: ""
+        #link: ""
         authors: Sungjoon Park, Dohoon Lee, Youngkuk Kim, Sangsoo Lim, Heejoon Chae and Sun Kim
         conference: "Bioinformatics (under Review)"
 
       - title: "Subnetwork representation learning for discovering network biomarkers in predicting lymph node metastasis in early oral cancer"
-        link: ""
+        #link: ""
         authors: Minsu Kim, Sangseon Lee, Sangsoo Lim, Doh Young Lee and Sun Kim
         conference: "Bioinformatics (under Review)"
 
