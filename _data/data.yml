@@ -86,7 +86,7 @@ experiences:
       company: Bioinformatics Institute, Seoul National University
       details: |
 
-#projects:
+projects:
     #title: Discovery of pharmacophores using an aggregated variable-length convolutional neural networks
     #intro: >
       #In drug design, developing a lead compound requires actual binding motif as an essential building block while meeting supplementary biochemical requirements.
