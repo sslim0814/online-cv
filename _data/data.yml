@@ -86,30 +86,30 @@ experiences:
       company: Bioinformatics Institute, Seoul National University
       details: |
 
-projects:
-    title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
-    intro: |
-     In preparation
+# projects:
+#     title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
+#     intro: |
+#      In preparation
 
-    title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
-    intro: |
-     In preparation
+#     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
+#     intro: |
+#      In preparation
 
-    title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
-    intro: |
-     In preparation
+#     title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
+#     intro: |
+#      In preparation
      
-    title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm for Toxicophore Discovery
-    intro: |
-     In preparation
+#     title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm for Toxicophore Discovery
+#     intro: |
+#      In preparation
      
-    title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
-    intro: |
-     In preparation
+#     title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
+#     intro: |
+#      In preparation
      
-    title: Classification of Kinase Inhibitor Subgroups
-    intro: |
-     In preparation
+#     title: Classification of Kinase Inhibitor Subgroups
+#     intro: |
+#      In preparation
      
 
 awards:
