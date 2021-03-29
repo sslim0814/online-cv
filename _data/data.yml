@@ -86,10 +86,10 @@ experiences:
       company: Bioinformatics Institute, Seoul National University
       details: |
 
-# projects:
-#     title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
-#     intro: |
-#      In preparation
+projects:
+    title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
+    intro: |
+     In preparation
 
 #     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
 #     intro: |
@@ -145,6 +145,11 @@ publications:
         #link: ""
         authors: Minsu Kim, Sangseon Lee, Sangsoo Lim, Doh Young Lee and Sun Kim
         conference: "Bioinformatics (under Review)"
+
+      - title: "Construction of Condition-Specific Gene Regulatory Network using Kernel Canonical Correlation Analysis"
+        link: ""
+        authors: Dabin Jeong, Sangsoo Lim, Sangseon Lee, Minsik Oh, Changyun Cho, Hyeju Seong, Woosuk Jung, Sun Kim
+        conference: "Frontiers in Genetics (in press)"
 
       - title: "DNMT1 maintains metabolic fitness of adipocytes through acting as an epigenetic safeguard of mitochondrial dynamics"
         link: "https://www.pnas.org/content/118/11/e2021073118.short"
