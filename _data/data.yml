@@ -89,32 +89,36 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here
+      List of currently leading/involved projects (under supervision by Professor Sun Kim)
     assignments:
       - title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
         link: ""
         tagline: "In preparation"
 
+      - title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
+        link: ""
+        tagline: "In preparation"
+        # Yijingxiu Lu
 
-#     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
-#     intro: |
-#      In preparation
+      - title: Development of a Cascade Autoencoder Model for Differential Representation of FDA Approved Drugs
+        link: ""
+        tagline: "In preparation"
+        # Jungwoo Kim
 
-#     title: Development of Cascade Autoencoder for Differential Representation of FDA Approved Drugs
-#     intro: |
-#      In preparation
-     
-#     title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm for Toxicophore Discovery
-#     intro: |
-#      In preparation
-     
-#     title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
-#     intro: |
-#      In preparation
-     
-#     title: Classification of Kinase Inhibitor Subgroups
-#     intro: |
-#      In preparation
+      - title: Supervised Graph Pattern Mining of DILI Compounds using Apriori Algorithm for Toxicophore Discovery
+        link: ""
+        tagline: "In preparation"
+        # Youngkuk Kim
+
+      - title: Query Graph Search on Chemical Graphs using Dynamic Programming on Integrated Directed Acyclic Graph
+        link: ""
+        tagline: "In preparation"
+        # Yinhuw Park
+    
+      - title: Classification of Kinase Inhibitor Subgroups
+        link: ""
+        tagline: "In preparation"
+        # Chang Yun Cho
      
 
 awards:
