@@ -87,9 +87,14 @@ experiences:
       details: |
 
 projects:
-    title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
-    intro: |
-     In preparation
+    title: Projects
+    intro: >
+      Here
+    assignments:
+      - title: Drug-Induced Liver Injury (DILI) Classification using Supervised Random Walk with Graph Pruning
+        link: ""
+        tagline: "In preparation"
+
 
 #     title: An ensemble approach to Compound-Protein Interaction Prediction of Kinase Inhibitors
 #     intro: |
