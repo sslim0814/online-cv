@@ -168,12 +168,12 @@ publications:
       - title: "A review on compound-protein interaction prediction methods: Data,format, representation and model"
         link: "https://www.sciencedirect.com/science/article/pii/S2001037021000763"
         authors: Sangsoo Lim*, Yijinxiu Lu*, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park and Sun Kim
-        conference: "Computational and Structural Biotechnology Journal 19:1541-1556"
+        conference: "Computational and Structural Biotechnology Journal 19:1541-1556, 2021"
 
       - title: "DRIM: A web-based system for investigating drug response at the molecular level by condition-specific multi-omics data integration"
         link: "https://www.frontiersin.org/articles/10.3389/fgene.2020.564792/full"
         authors: Minsik Oh, Sungjoon Park, Sangseon Lee, Dohoon Lee, Sangsoo Lim, Dabin Jeong, Kyuri Jo, Inuk Jung and Sun Kim
-        conference: "Froniters in Genetics 11:564792"
+        conference: "Froniters in Genetics 11:564792, 2020"
         
       - title: "Cancer subtype classification and modeling by pathway attention and propagation"
         link: "https://academic.oup.com/bioinformatics/article-abstract/36/12/3818/5811233"
